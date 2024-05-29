@@ -90,6 +90,7 @@ POST /generate_study_plan/
 
 ```
 ## License
+```
 MIT License
 
 Copyright (c) 2024 Muhammad Junaid
